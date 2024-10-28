@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dotenv
+requests
+pdfkit # for html to pdf
+tabula-py # for pdf to csv
+ipykernel
+mysql-connector-python
+python-dotenv
+tqdm

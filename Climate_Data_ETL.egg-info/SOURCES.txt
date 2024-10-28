@@ -1,0 +1,6 @@
+setup.py
+Climate_Data_ETL.egg-info/PKG-INFO
+Climate_Data_ETL.egg-info/SOURCES.txt
+Climate_Data_ETL.egg-info/dependency_links.txt
+Climate_Data_ETL.egg-info/requires.txt
+Climate_Data_ETL.egg-info/top_level.txt

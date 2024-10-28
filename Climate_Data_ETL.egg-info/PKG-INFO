@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Climate_Data_ETL
+Version: 0.0.1
+Author: Rahul_Shelke
+Author-email: rahulshelke981@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: python-dotenv
